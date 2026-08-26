@@ -1,2 +1,2 @@
-Project name: Final project
+Final project
 
